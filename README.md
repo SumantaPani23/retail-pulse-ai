@@ -17,8 +17,9 @@ It is a deterministic intelligence layer that reads Tally ERP 9, TallyPrime and 
 
 ## MVP
 
-Primary ICP:
-Xiaomi & OPPO distributors managing 20–500 retailers.
+## Initial Enterprise Customer Profile
+
+Multi-location B2B distributors, wholesalers, and channel partners managing 20–500 retail accounts.
 
 North Star KPI:
 Outstanding Recovery (₹)
