@@ -1,23 +1,35 @@
-# RetailPulse AI: B2B Churn Prediction Engine
-A Compound AI System for predicting B2B Churn using AWS SageMaker Canvas.
+# RetailPulse AI
 
-### 🚀 Project Overview
-RetailPulse is an autonomous retention architecture designed to detect "Silent Attrition" in offline B2B retail. By leveraging **AWS SageMaker Canvas**, this project operationalizes a predictive model to identify churn risk 60 days before revenue impact.
+> Detect demand early. Act before the market does.
 
-### 📂 Repository Contents
-* **`RetailPulse_Research_Paper.pdf`**: Full architectural breakdown and methodology.
-* **`AWS_Clean_Upload.csv`**: The synthesized training dataset (N=1,000 retailers).
-* **`Screenshots/`**: Evidence of model accuracy and single-prediction simulations.
+RetailPulse AI is an Applied AI Operational Intelligence Platform built for Indian distributors.
 
-### 🛠️ Tech Stack
-* **Platform:** AWS SageMaker Canvas (No-Code ML)
-* **Model Type:** Binary Classification (XGBoost)
-* **Target Variable:** `Churned_YesNo`
-* **Performance:** >95% Predictive Accuracy
+## Product Position
 
-### ⚡ Key Findings
-1. **Recency is Critical:** The `DaysSinceLastOrder` variable accounted for the majority of model impact.
-2. **The 45-Day Threshold:** Retailers inactive for >45 days show a non-linear spike in churn probability.
+RetailPulse is **not an ERP**.
 
+It is a deterministic intelligence layer that reads Tally ERP 9, TallyPrime and SAP Business One data to identify:
+
+- Revenue leakage
+- Outstanding recovery
+- Inventory risk
+- Replenishment priority
+
+## MVP
+
+Primary ICP:
+Xiaomi & OPPO distributors managing 20–500 retailers.
+
+North Star KPI:
+Outstanding Recovery (₹)
+
+System of Record:
+Tally ERP / SAP Business One
+
+Decision Engine:
+Deterministic Rule Engine + Event Engine + KPI Engine
+
+LLM:
+Optional BYOK explanation layer only.
 ---
 *Created by Sumanta Pani - Product Manager Portfolio*
