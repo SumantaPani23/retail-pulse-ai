@@ -1,0 +1,21 @@
+sku,product_name,unit_cost,lead_time_days
+SKU-H01,Eco-Packaging Bulk,15.97,27
+SKU-002,Product 2,130.92,29
+SKU-003,Product 3,69.73,11
+SKU-004,Product 4,106.63,5
+SKU-005,Product 5,182.44,5
+SKU-006,Product 6,57.37,29
+SKU-007,Product 7,87.97,29
+SKU-008,Product 8,153.55,24
+SKU-009,Product 9,53.47,17
+SKU-010,Product 10,24.63,13
+SKU-011,Product 11,65.05,7
+SKU-012,Product 12,40.63,11
+SKU-013,Product 13,186.64,10
+SKU-014,Product 14,163.54,12
+SKU-015,Product 15,130.35,13
+SKU-016,Product 16,175.58,9
+SKU-017,Product 17,162.7,5
+SKU-018,Product 18,45.45,23
+SKU-019,Product 19,179.59,14
+SKU-Z99,Premium Display Cases,500.0,16
